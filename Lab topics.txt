@@ -1,0 +1,10 @@
+
+
+-->visualization(2)
+	-->numpy 
+	-->matplot
+	
+-->Method solving(3)
+	-->Cramer's rule 
+	-->Matrix inversion method
+	-->Gauss elimination method

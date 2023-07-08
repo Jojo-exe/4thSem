@@ -1,0 +1,28 @@
+GPS OPERATORS 
+action:mocw r from b toc 
+prcod:len c<6 top C r 
+add:top B B 
+Delete:top B R  
+
+
+op1={
+"Action":"move R-ring from pole B on pole C "
+"Precod":"Ring R on pole C should be Free",len of C should be free
+"add":"Ring R on pole C From pole B ",top of B 
+"delete":"Ring R from Pole B "  
+}
+
+op2={
+"Action":"move B-ring from pole A on pole B "
+"Precod":"Ring B on pole B should be Free"
+"add":"Ring B on pole B From pole A "
+"delete":"Ring B from Pole A "  
+}
+
+op3={
+"Action":"move R-ring from pole C on pole A "
+"Precod":"Ring R on pole A should be Free"
+"add":"Ring R from pole C on pole A "
+"delete":"Ring R from Pole B "  
+}
+
